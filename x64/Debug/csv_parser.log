@@ -1,0 +1,4 @@
+﻿  csv_reader.cpp
+C:\Users\akolo\NSU\cppLabs\csv_parser\csv_parser\csv_reader.cpp(72,29): warning C4244: =: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\akolo\NSU\cppLabs\csv_parser\csv_parser\csv_reader.cpp(116): warning C4715: csv_reader::read_row: значение возвращается не при всех путях выполнения
+  csv_parser.vcxproj -> C:\Users\akolo\NSU\cppLabs\csv_parser\x64\Debug\csv_parser.exe
